@@ -1,0 +1,16 @@
+C:\Users\Harsh\Desktop\.net\dgh\obj\Debug\net5.0\dgh.csproj.AssemblyReference.cache
+C:\Users\Harsh\Desktop\.net\dgh\obj\Debug\net5.0\dgh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harsh\Desktop\.net\dgh\obj\Debug\net5.0\dgh.AssemblyInfoInputs.cache
+C:\Users\Harsh\Desktop\.net\dgh\obj\Debug\net5.0\dgh.AssemblyInfo.cs
+C:\Users\Harsh\Desktop\.net\dgh\obj\Debug\net5.0\dgh.csproj.CoreCompileInputs.cache
+C:\Users\Harsh\Desktop\.net\dgh\bin\Debug\net5.0\dgh.exe
+C:\Users\Harsh\Desktop\.net\dgh\bin\Debug\net5.0\dgh.deps.json
+C:\Users\Harsh\Desktop\.net\dgh\bin\Debug\net5.0\dgh.runtimeconfig.json
+C:\Users\Harsh\Desktop\.net\dgh\bin\Debug\net5.0\dgh.runtimeconfig.dev.json
+C:\Users\Harsh\Desktop\.net\dgh\bin\Debug\net5.0\dgh.dll
+C:\Users\Harsh\Desktop\.net\dgh\bin\Debug\net5.0\ref\dgh.dll
+C:\Users\Harsh\Desktop\.net\dgh\bin\Debug\net5.0\dgh.pdb
+C:\Users\Harsh\Desktop\.net\dgh\obj\Debug\net5.0\dgh.dll
+C:\Users\Harsh\Desktop\.net\dgh\obj\Debug\net5.0\ref\dgh.dll
+C:\Users\Harsh\Desktop\.net\dgh\obj\Debug\net5.0\dgh.pdb
+C:\Users\Harsh\Desktop\.net\dgh\obj\Debug\net5.0\dgh.genruntimeconfig.cache
